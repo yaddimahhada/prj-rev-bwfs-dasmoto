@@ -1,0 +1,6 @@
+.boldcash {color:blue;font-weight: bold;font-family: helvetica;}
+h2 {font-family: helvetica; font-size: 32px; color:white;}
+#brushes h2 {background-color: mediumspringgreen;}
+#artframes h2 {background-color: lightcoral;}
+#paint h2 {background-color: skyblue;}
+h1 {background-image:url(./images/pattern.jpeg); color:khaki; font-size: 100px; font-weight:bold; text-align:center;}
